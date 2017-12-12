@@ -4,6 +4,9 @@
 Features we will add soon:
 
 Sounds
+
 Highscore System
+
 How to Play Screen
+
 Game Over Screen
